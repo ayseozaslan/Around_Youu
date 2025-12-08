@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">AroundYou</string>
+
+    <!-- Bottom Account Icons -->
+    <string name="account_title">Account</string>
+    <string name="account_logout">Logout</string>
+
+    <!-- Bottom Navigation Labels Main Activity -->
+    <string name="nav_map">Map</string>
+    <string name="nav_feed">Explore</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_ai">AI</string>
+
+    <!-- Routes -->
+    <string name="route_map">mapScreen</string>
+    <string name="route_feed">feedScreen</string>
+    <string name="route_favorites">favoriteScreen</string>
+    <string name="route_settings">settingsScreen</string>
+    <string name="route_ai">aIScreen</string>
+
+    <!-- General Warnings MapScreen -->
+    <string name="location_permission_required">Location permission required</string>
+    <string name="check_internet_location">Please check your internet and location settings</string>
+    <string name="unknown_place">Unknown Place</string>
+
+    <!-- SearchBar -->
+    <string name="search_placeholder_feed" tools:ignore="ExtraTranslation">Search restaurant or area...</string>
+
+    <!-- Google Maps -->
+    <string name="google_maps">Google Maps</string>
+    <string name="view_on_google_maps">View on Google Maps</string>
+
+    <!-- Icon Content Descriptions -->
+    <string name="cd_google_maps_icon">Google Maps icon</string>
+    <string name="cd_star_icon">Star icon</string>
+
+    <!-- Feed Screen -->
+    <string name="feed_title">Explore</string>
+    <string name="search_placeholder_map" tools:ignore="ExtraTranslation">Search restaurant, category, or area</string>
+    <string name="filter">Filter</string>
+
+    <!-- Filter Dialog -->
+    <string name="filter_title">Filter</string>
+    <string name="filter_desc">Filter results to find exactly what you are looking for</string>
+    <string name="country">Country</string>
+    <string name="region">Region</string>
+    <string name="city">City</string>
+    <string name="select">Select</string>
+
+    <string name="categories">Categories</string>
+    <string name="apply">Apply</string>
+
+    <!-- Category Names -->
+    <string name="cat_restaurant">Restaurant</string>
+    <string name="cat_cafe">Cafe</string>
+    <string name="cat_hotel">Hotel</string>
+    <string name="cat_pizza">Pizza</string>
+    <string name="cat_bar">Bar</string>
+    <string name="cat_dessert">Dessert</string>
+    <string name="cat_kokteyl">Cocktail</string>
+    <string name="cat_ocakbasi">Fireside</string>
+    <string name="cat_workshop">Workshop</string>
+
+
+
+
+    <!-- Toast & Permission -->
+    <string name="location_permission_needed">Location permission required</string>
+
+    <!-- Favorite Screen -->
+    <string name="favorites_title">Favorites</string>
+    <string name="favorites_empty">No favorites added yet.</string>
+
+    <!-- Favorite Card -->
+    <string name="remove_favorite">Remove from Favorites</string>
+    <string name="open_in_maps">Open in Maps</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+
+    <!-- Profile Card -->
+    <string name="profile_info">Profile Info</string>
+    <string name="username_label">Username</string>
+    <string name="email_label">Email</string>
+
+    <!-- Theme -->
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+
+    <!-- Language -->
+    <string name="language_label">Language</string>
+    <string name="select_language">Select</string>
+
+    <!-- Language Names -->
+    <string name="lang_turkish">Turkish</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Spanish</string>
+
+    <!-- Login Screen -->
+    <string name="app_name_title">Around You</string>
+    <string name="start_exploring">Start Exploring</string>
+
+    <!-- Toast / Actions -->
+    <string name="login_success">Login successful 🎉</string>
+
+    <!-- Google Login Button -->
+    <string name="google_login_btn">Sign in with Google Account</string>
+    <string name="google_logo_desc">Google Logo</string>
+
+    <!-- Onboarding Buttons -->
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_back">Back</string>
+    <string name="onboarding_start">Start</string>
+
+    <!-- Permission Messages -->
+    <string name="permission_granted">Permission granted</string>
+    <string name="permission_denied">Permission denied</string>
+
+    <!-- Onboarding Titles -->
+    <string name="onboarding_title_first">Discover the World</string>
+    <string name="onboarding_title_second">Find Nearby Places</string>
+    <string name="onboarding_title_third">Favorite</string>
+    <string name="onboarding_title_four">Not just Turkey, explore the world</string>
+    <string name="onboarding_title_five">Aı Chat </string>
+
+
+    <!-- Onboarding Descriptions -->
+    <string name="onboarding_desc_first">Find restaurants, cafes, hotels, and tourist spots all in one app</string>
+    <string name="onboarding_desc_second">Share your location to find nearby places</string>
+    <string name="onboarding_desc_third">Favorite the places you like and access them anytime</string>
+    <string name="onboarding_desc_four">Search any city and instantly see place information</string>
+    <string name="onboarding_desc_five">Discover the best places and activities for the current weather with AI-powered recommendations. </string>
+
+
+    <!-- Onboarding Button Texts -->
+    <string name="button_next">Next</string>
+    <string name="button_back">Back</string>
+    <string name="button_start">Start</string>
+
+</resources>

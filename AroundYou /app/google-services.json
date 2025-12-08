@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "929294601518",
+    "project_id": "aroundyou-b76df",
+    "storage_bucket": "aroundyou-b76df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929294601518:android:4699b5dc67137529ee7ebf",
+        "android_client_info": {
+          "package_name": "com.ayse.aroundyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929294601518-vtp9c7as35nvgkvv9ft9k0o18aunlq38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA8OSDyrsns5VlRtJZT0JvItbBUSqDpDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929294601518-vtp9c7as35nvgkvv9ft9k0o18aunlq38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929294601518:android:d7f9add9fae93237ee7ebf",
+        "android_client_info": {
+          "package_name": "com.example.aroundyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929294601518-n2g2d5f4k4jl4ivepvufd4tueotaihgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aroundyou",
+            "certificate_hash": "98d1830d89758a782faa8d5fca80cafc4bdef3be"
+          }
+        },
+        {
+          "client_id": "929294601518-vtp9c7as35nvgkvv9ft9k0o18aunlq38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA8OSDyrsns5VlRtJZT0JvItbBUSqDpDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929294601518-vtp9c7as35nvgkvv9ft9k0o18aunlq38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

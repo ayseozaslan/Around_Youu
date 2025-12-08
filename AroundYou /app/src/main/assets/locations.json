@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Türkiye",
+    "regions": [
+      {
+        "name": "Marmara",
+        "cities": ["İstanbul", "Edirne", "Kırklareli", "Tekirdağ", "Çanakkale", "Balıkesir", "Bursa", "Yalova", "Bilecik", "Sakarya", "Kocaeli"]
+      },
+      {
+        "name": "Ege",
+        "cities": ["İzmir", "Aydın", "Manisa", "Muğla", "Denizli", "Uşak", "Kütahya", "Afyonkarahisar"]
+      },
+      {
+        "name": "Akdeniz",
+        "cities": ["Antalya", "Mersin", "Adana", "Hatay", "Isparta", "Kahramanmaraş", "Osmaniye", "Niğde", "Karaman", "Burdur"]
+      },
+      {
+        "name": "İç Anadolu",
+        "cities": ["Ankara", "Konya", "Eskişehir", "Kayseri", "Sivas", "Aksaray", "Nevşehir", "Kırıkkale", "Yozgat", "Çankırı", "Kırşehir"]
+      },
+      {
+        "name": "Karadeniz",
+        "cities": ["Samsun", "Trabzon", "Rize", "Ordu", "Zonguldak", "Giresun", "Amasya", "Tokat", "Bartın", "Karabük", "Sinop", "Bayburt", "Artvin", "Gümüşhane"]
+      },
+      {
+        "name": "Doğu Anadolu",
+        "cities": ["Erzurum", "Van", "Malatya", "Elazığ", "Ağrı", "Kars", "Bingöl", "Erzincan", "Muş", "Tunceli", "Bitlis", "Hakkari", "Iğdır", "Ardahan"]
+      },
+      {
+        "name": "Güneydoğu Anadolu",
+        "cities": ["Diyarbakır", "Şanlıurfa", "Gaziantep", "Mardin", "Batman", "Şırnak", "Siirt", "Kilis", "Adıyaman"]
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "regions": [
+      {
+        "name": "England",
+        "cities": ["London", "Manchester", "Birmingham", "Liverpool", "Leeds", "Sheffield", "Bristol", "Newcastle", "Nottingham", "Southampton"]
+      },
+      {
+        "name": "Scotland",
+        "cities": ["Edinburgh", "Glasgow", "Aberdeen", "Dundee", "Inverness"]
+      },
+      {
+        "name": "Wales",
+        "cities": ["Cardiff", "Swansea", "Newport", "Bangor", "St Davids"]
+      },
+      {
+        "name": "Northern Ireland",
+        "cities": ["Belfast", "Londonderry", "Lisburn", "Newry", "Armagh"]
+      }
+    ]
+  },
+  {
+    "name": "United States",
+    "regions": [
+      {
+        "name": "California",
+        "cities": ["Los Angeles", "San Francisco", "San Diego", "Sacramento", "San Jose"]
+      },
+      {
+        "name": "New York",
+        "cities": ["New York City", "Buffalo", "Rochester", "Albany", "Syracuse"]
+      },
+      {
+        "name": "Texas",
+        "cities": ["Houston", "Dallas", "Austin", "San Antonio", "Fort Worth"]
+      },
+      {
+        "name": "Florida",
+        "cities": ["Miami", "Orlando", "Tampa", "Jacksonville", "Tallahassee"]
+      },
+      {
+        "name": "Illinois",
+        "cities": ["Chicago", "Springfield", "Naperville", "Peoria", "Rockford"]
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "regions": [
+      {
+        "name": "Bavaria",
+        "cities": ["Munich", "Nuremberg", "Augsburg", "Regensburg", "Ingolstadt"]
+      },
+      {
+        "name": "Berlin",
+        "cities": ["Berlin"]
+      },
+      {
+        "name": "North Rhine-Westphalia",
+        "cities": ["Cologne", "Düsseldorf", "Dortmund", "Essen", "Bonn"]
+      },
+      {
+        "name": "Hesse",
+        "cities": ["Frankfurt", "Wiesbaden", "Darmstadt", "Kassel"]
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "regions": [
+      {
+        "name": "Kanto",
+        "cities": ["Tokyo", "Yokohama", "Chiba", "Saitama", "Kawasaki"]
+      },
+      {
+        "name": "Kansai",
+        "cities": ["Osaka", "Kyoto", "Kobe", "Nara", "Wakayama"]
+      },
+      {
+        "name": "Hokkaido",
+        "cities": ["Sapporo", "Asahikawa", "Hakodate", "Obihiro"]
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "regions": [
+      {
+        "name": "Andalusia",
+        "cities": ["Seville", "Malaga", "Granada", "Cordoba", "Cadiz"]
+      },
+      {
+        "name": "Catalonia",
+        "cities": ["Barcelona", "Girona", "Lleida", "Tarragona"]
+      },
+      {
+        "name": "Madrid",
+        "cities": ["Madrid", "Alcala de Henares", "Getafe", "Leganes"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "featureType": "all",
+    "elementType": "all",
+    "stylers": [
+      { "saturation": 0 },
+      { "lightness": 50 }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "geometry",
+    "stylers": [
+      { "visibility": "simplified" },
+      { "lightness": 50 }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "geometry",
+    "stylers": [
+      { "visibility": "on" },
+      { "lightness": 50 }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry",
+    "stylers": [
+      { "color": "#aadaff" }
+    ]
+  }
+]
