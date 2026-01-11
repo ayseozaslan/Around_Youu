@@ -1,5 +1,8 @@
 # 🌍 Around You – Konum Bazlı Mekan Keşif Uygulaması
 
+# ⚠️ Source code is private for now.
+ # Project details and architecture are available upon request.
+
 . Yeni Android uygulamam Around You’yu tanıtmaktan büyük heyecan duyuyorum! 📱
 Kotlin ile geliştirdiğim bu uygulama, modern Jetpack Compose arayüzü ile kullanıcıların çevrelerindeki mekanları hızlı, akıcı ve akıllı bir şekilde keşfetmelerini sağlıyor.
 . Around You, Google Maps ve Google Places API’ları üzerinden yakın çevredeki restoran, kafe, mağaza, müze ve birçok farklı konumu listeleyerek kullanıcıya kapsamlı bir keşif deneyimi sunar.
